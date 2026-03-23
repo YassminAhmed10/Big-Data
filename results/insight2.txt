@@ -1,0 +1,19 @@
+=== INSIGHT 2: Categorical Factors ===
+
+--- By Area ---
+Other     1.18
+Rural    44.67
+Urban    15.38
+
+--- By School Status ---
+Attending        21.21
+Not Attending    39.29
+
+--- By Sex ---
+Female    20.63
+Male      38.16
+
+Key Findings:
+- Highest child labour in: Rural
+- Higher among: Not Attending
+- Higher among: Male

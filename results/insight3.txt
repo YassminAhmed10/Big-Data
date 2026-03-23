@@ -1,0 +1,16 @@
+=== INSIGHT 3: High-Risk Segments ===
+
+Total records: 1806
+High-risk records: 128 (7.1%)
+
+--- Poverty x Labour Heatmap (mean) ---
+labour_tier        Low  Moderate   High  Critical
+poverty_tier                                     
+Low (<15%)         2.5      21.0   91.6     235.9
+Moderate (15-25%)  2.5      24.7  105.1     442.0
+High (25-40%)      2.9      23.0   88.7     471.4
+Extreme (>40%)     3.7      21.9   77.6       0.0
+
+Key Finding:
+  Moderate poverty + high labour shows the highest levels.
+  The issue is not only extreme poverty, but also population and enforcement.

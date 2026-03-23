@@ -1,0 +1,25 @@
+=== K-Means Clustering Results (k=3) ===
+
+Features used: labour_scaled, poverty_scaled, school_enc
+
+--- Samples per Cluster ---
+  Cluster 0 (Low Labour / Low Poverty): 1202 records
+  Cluster 1 (Medium Risk): 556 records
+  Cluster 2 (High Labour / High Poverty): 48 records
+
+--- Cluster Profiles (Mean Values) ---
+         obs_value    Value  school_enc  area_enc
+cluster                                          
+0          16.5946  19.6651      0.5258    1.4642
+1          19.6600  44.9534      0.5306    1.4838
+2         517.4037  29.0188      0.7500    1.1667
+
+--- Interpretation ---
+  Cluster 0: Low Labour / Low Poverty
+  Cluster 1: Medium Risk
+  Cluster 2: High Labour / High Poverty
+
+Cluster 0 typically represents children in high-poverty, rural settings
+with low school attendance — the most vulnerable group.
+Cluster 1 represents moderate-risk children with mixed school attendance.
+Cluster 2 represents lower-risk children in lower-poverty environments.

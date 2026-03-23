@@ -1,0 +1,15 @@
+=== INSIGHT 1: Poverty & Child Labour ===
+
+Pearson Correlation: 0.0081
+
+Interpretation:
+  - Weak correlation detected.
+  - This does NOT mean poverty is unimportant.
+  - Some countries show higher child labour than expected.
+  - This suggests factors like weak enforcement.
+
+Average Labour/Poverty Ratio: 1.34
+
+Key Insight:
+  Child labour is not explained by poverty alone.
+  Structural factors (e.g., enforcement) play a major role.
